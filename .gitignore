@@ -1,0 +1,29 @@
+# outputs
+**/build/
+**/classes/
+**/gradle_build/
+**/out/
+**/tmp/
+
+/.project
+logs/
+
+# IDEA
+.idea/
+*.iml
+**/*.iml
+*.ipr
+*.iws
+
+# OSX
+.DS_Store
+.AppleDouble
+.LSOverride
+
+#Gradle
+.gradle
+.gradletasknamecache
+*/.gradle
+!gradle/wrapper/gradle-wrapper.properties
+!gradle/wrapper/gradle-wrapper.jar
+reports
