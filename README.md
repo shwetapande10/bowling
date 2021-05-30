@@ -1,6 +1,6 @@
 # Bowling club  
 
-This program calculates the score for a bowling game.
+    This program calculates the score for a bowling game.
 
 ## Getting Started
 

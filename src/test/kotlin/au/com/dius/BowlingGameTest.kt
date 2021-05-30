@@ -37,7 +37,7 @@ internal class BowlingGameTest {
     }
 
     @Test
-    fun rollOneSpareNextBall5AndRestGutters() {
+    fun rollOneSpareNextRollPins5AndRestGutters() {
         bowlingGame.roll(4)
         bowlingGame.roll(6)
         bowlingGame.roll(5)
@@ -62,7 +62,7 @@ internal class BowlingGameTest {
     }
 
     @Test
-    fun rollLastFrameWithSStrikeAndRestAllGutters() {
+    fun rollLastFrameWithStrikeAndRestAllGutters() {
         repeat(18) { bowlingGame.roll(0) }
         bowlingGame.roll(10)
         bowlingGame.roll(5)
