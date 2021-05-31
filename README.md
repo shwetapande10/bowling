@@ -35,6 +35,7 @@ Run the following command to execute all the tests
 
 * [Java 8](https://docs.oracle.com/javase/8/docs/api/) - Java 8 reference
 * [Gradle](https://gradle.org/) - Build tool
+* [Kotlin](https://kotlinlang.org/docs/getting-started.html) - Kotlin v1.5.10
 
 ## Author
 
